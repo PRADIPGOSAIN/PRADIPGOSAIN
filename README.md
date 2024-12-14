@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRADIPGOSAIN
 - 👀 I’m interested in Coading
-- 🌱 I’m currently learning  java
+- 🌱 I’m currently learning  Python
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me ... by facebook
 - 😄 Pronouns: ...
