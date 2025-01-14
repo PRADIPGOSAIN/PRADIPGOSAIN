@@ -29,7 +29,7 @@ I'm **[`Codex Eclipse`]()**, a hacker & Security Researcher and aspiring Cyberse
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at ** ---  **
+- Reach me out at **https://x.com/OzumaYakuza**
 
 </details>
 <br>
@@ -97,7 +97,6 @@ I'm **[`Codex Eclipse`]()**, a hacker & Security Researcher and aspiring Cyberse
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 
