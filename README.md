@@ -104,17 +104,6 @@ I'm **[`Codex Eclipse`]()**, a hacker & Security Researcher and aspiring Cyberse
 
 <h2 id="donate" align=''> Support⚡️</h2>
 
-<details>
-Creadit goes to : coffinxp
-<summary>Buy Me A Coffee</summary>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
-
-<p align="center"><a href="https://buymeacoffee.com/coffinxp"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
-</details>
-
-
 
 
 <p align="center">
