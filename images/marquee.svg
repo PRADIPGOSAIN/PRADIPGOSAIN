@@ -18,7 +18,7 @@
           line-height: 100px;
           text-align: center;
           transform: translateX(100%);
-          animation: marquee 9s linear infinite;
+          animation: marquee 12s linear infinite;
         }
         @keyframes marquee {
           0%   { transform: translateX(100%); }
@@ -26,7 +26,7 @@
         }
       </style>
       <div class="marquee">
-        <strong>&gt;_ BUILD &nbsp;•&nbsp; BREAK &nbsp;•&nbsp; FIX &nbsp;•&nbsp; MOD &nbsp;•&nbsp; REPEAT</strong>
+        <strong>&gt;_ B̜̹̣̆͆̾Ų̵̛Į͇́ͬ͗L̫̩̒̾҉͡D̸͓̎&nbsp;•&nbsp;B̜̹̣̆͆̾R̖̗ͬ̈̇̚Ẹ̸ْͭͦ͜Ǎ̧̗̜K̨֑ͬ̐͢͡&nbsp;•&nbsp;F̨҇̀̓Iّّ̛̭͌X̧̲̩̀͟&nbsp;•&nbsp;Mٌ̠̔̑̕Oׁ̪D̶̳ͬ&nbsp;•&nbsp;R͖̐E̺Ṕ̸̺̒̏ËA̼̒︠T̶ٌ̡</strong>
       </div>
 		</div>
 	</foreignObject>
