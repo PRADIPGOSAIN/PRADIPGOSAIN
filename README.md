@@ -8,10 +8,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/PRADIPGOSAIN/PRADIPGOSAIN/main/images/marquee.gif" width="100%" alt="marquee" />
-
-<br/>
-
 <pre>
     🏔️ Kathmandu, Nepal  •  UTC+5:45  •  btw I use Arch 🐧
     💼 Full-Stack Web Dev  •  AI Enthusiast  •  Security Researcher
