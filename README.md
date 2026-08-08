@@ -43,9 +43,7 @@ Full-Stack Web Developer from **Kathmandu, Nepal 🇳🇵** — I build fast, cl
 
 ## 🛠️ Skills
 
-<details>
-<summary><b>💻 Frontend</b> — TypeScript · React · Next.js · Tailwind …</summary>
-<br/>
+### 💻 Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -64,11 +62,8 @@ Full-Stack Web Developer from **Kathmandu, Nepal 🇳🇵** — I build fast, cl
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B8CF?style=for-the-badge)
 
-</details>
 
-<details>
-<summary><b>⚙️ Backend & Data</b> — Node · Python · Prisma · Databases …</summary>
-<br/>
+### ⚙️ Backend & Data
 
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -82,43 +77,31 @@ Full-Stack Web Developer from **Kathmandu, Nepal 🇳🇵** — I build fast, cl
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white)
 
-</details>
 
-<details>
-<summary><b>🤖 AI / ML</b> — OpenAI · Prompt Engineering · Hugging Face …</summary>
-<br/>
+### 🤖 AI / ML
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-</details>
 
-<details>
-<summary><b>🔐 Security</b> — Kali · Burp Suite · Metasploit · Wireshark …</summary>
-<br/>
+### 🔐 Security
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-</details>
 
-<details>
-<summary><b>🎮 Modding & Low-level</b> — C · C++ · Android · Java …</summary>
-<br/>
+### 🎮 Modding & Low-level
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-</details>
 
-<details open>
-<summary><b>🐧 OS & Terminal</b> — Arch Linux nerd, obviously</summary>
-<br/>
+### 🐧 OS & Terminal
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -134,11 +117,8 @@ Full-Stack Web Developer from **Kathmandu, Nepal 🇳🇵** — I build fast, cl
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![curl](https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white)
 
-</details>
 
-<details>
-<summary><b>🧰 Tools & DevOps</b> — Git · Docker · Linux · Vercel …</summary>
-<br/>
+### 🧰 Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -148,7 +128,6 @@ Full-Stack Web Developer from **Kathmandu, Nepal 🇳🇵** — I build fast, cl
 ![EditorConfig](https://img.shields.io/badge/EditorConfig-FEFEFE?style=for-the-badge&logo=editorconfig&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
-</details>
 
 ---
 
@@ -212,6 +191,20 @@ Full-Stack Web Developer from **Kathmandu, Nepal 🇳🇵** — I build fast, cl
 - 🤖 Exploring **agentic AI** & AI-powered side projects
 - 🔐 Sharpening **bug bounty & mobile pentesting**
 - 🎮 Modding games on PC & Android
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRADIPGOSAIN/PRADIPGOSAIN/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRADIPGOSAIN/PRADIPGOSAIN/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PRADIPGOSAIN/PRADIPGOSAIN/output/github-snake.svg" alt="Contribution snake" />
+</picture>
+
+</div>
 
 ---
 
