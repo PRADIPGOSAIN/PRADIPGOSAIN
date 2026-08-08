@@ -194,7 +194,7 @@ Full-Stack Web Developer from **Kathmandu, Nepal 🇳🇵** — I build fast, cl
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍
 
 <div align="center">
 
