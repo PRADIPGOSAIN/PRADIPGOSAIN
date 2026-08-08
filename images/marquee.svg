@@ -1,0 +1,33 @@
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="110%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+        .marquee {
+          height: 100px;
+          overflow: hidden;
+          position: relative;
+        }
+        .marquee strong {
+          font-family: "Fira Code", "JetBrains Mono", Menlo, Consolas, monospace;
+          color: #EF4444;
+          position: absolute;
+          font-size: 2.6em;
+          white-space: nowrap;
+          height: 100%;
+          margin: 0;
+          line-height: 100px;
+          text-align: center;
+          transform: translateX(100%);
+          animation: marquee 9s linear infinite;
+        }
+        @keyframes marquee {
+          0%   { transform: translateX(100%); }
+          100% { transform: translateX(-100%); }
+        }
+      </style>
+      <div class="marquee">
+        <strong>&gt;_ BUILD &nbsp;•&nbsp; BREAK &nbsp;•&nbsp; FIX &nbsp;•&nbsp; MOD &nbsp;•&nbsp; REPEAT</strong>
+      </div>
+		</div>
+	</foreignObject>
+</svg>
