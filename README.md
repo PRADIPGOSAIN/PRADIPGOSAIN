@@ -22,7 +22,7 @@
 <a href="https://discord.gg/EMbnejCQt"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://t.me/DeadZoneMood"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:pradipking1234@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://nepali-miti-b27g9m40x-pradips-projects-ec7f3e20.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-EF4444?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://nepali-miti.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-EF4444?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <img src="https://komarev.com/ghpvc/?username=PRADIPGOSAIN&style=for-the-badge&color=ef4444" alt="Profile views" />
 
 </div>
@@ -152,7 +152,7 @@ Full-Stack Web Developer from **Kathmandu, Nepal 🇳🇵** — I build fast, cl
 
 **Stack:** Next.js 16 · TypeScript · Tailwind v4 · Zustand · Prisma · React Query
 
-▶ **Live:** https://nepali-miti-b27g9m40x-pradips-projects-ec7f3e20.vercel.app/
+▶ **Live:** https://nepali-miti.vercel.app/
 
 ---
 
