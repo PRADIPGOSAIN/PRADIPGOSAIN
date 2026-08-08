@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/PRADIPGOSAIN/PRADIPGOSAIN/main/images/marquee.svg" width="100%" alt="marquee" />
+<img src="https://raw.githubusercontent.com/PRADIPGOSAIN/PRADIPGOSAIN/main/images/marquee.gif" width="100%" alt="marquee" />
 
 <br/>
 
