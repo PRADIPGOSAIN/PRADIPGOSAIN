@@ -18,7 +18,10 @@
 <br/>
 
 <a href="https://x.com/OzumaYakuza"><img src="https://img.shields.io/badge/-%40OzumaYakuza-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="mailto:pradipking1234@gmail.com"><img src="https://img.shields.io/badge/-pradipking1234%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.facebook.com/PradipGosain.44"><img src="https://img.shields.io/badge/-PradipGosain.44-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://discord.gg/EMbnejCQt"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://t.me/DeadZoneMood"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:pradipking1234@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://nepali-miti-b27g9m40x-pradips-projects-ec7f3e20.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-EF4444?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <img src="https://komarev.com/ghpvc/?username=PRADIPGOSAIN&style=for-the-badge&color=ef4444" alt="Profile views" />
 
@@ -213,6 +216,7 @@ Full-Stack Web Developer from **Kathmandu, Nepal 🇳🇵** — I build fast, cl
 - 💼 Open to **full-stack / web dev roles**, **bug bounty collabs** & freelance
 - 📧 pradipking1234@gmail.com
 - 🐦 [@OzumaYakuza](https://x.com/OzumaYakuza)
+- 👤 [Facebook](https://www.facebook.com/PradipGosain.44) · 💬 [Discord](https://discord.gg/EMbnejCQt) · ✈️ [Telegram](https://t.me/DeadZoneMood)
 - 🏔️ Kathmandu, Nepal · UTC+5:45
 
 ---
