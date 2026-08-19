@@ -1,0 +1,24 @@
+name: Daily contribution
+
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Make daily commit
+        run: |
+          date -u '+%Y-%m-%d %H:%M:%S UTC' >> activity-log.txt
+          git config user.name "PRADIPGOSAIN"
+          git config user.email "pradipking1234@gmail.com"
+          git add activity-log.txt
+          git commit -m "daily activity: $(date -u '+%Y-%m-%d')"
+          git push
