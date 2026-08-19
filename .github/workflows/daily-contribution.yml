@@ -16,9 +16,19 @@ jobs:
 
       - name: Make daily commit
         run: |
-          date -u '+%Y-%m-%d %H:%M:%S UTC' >> activity-log.txt
+          day=$(date -u +%u)
+          if [ "$day" -gt 5 ]; then
+            echo "Weekend — skipping"
+            exit 0
+          fi
+          stamp=$(date -u '+%Y-%m-%d')
+          if grep -q "$stamp" activity-log.txt; then
+            echo "Already committed today — skipping"
+            exit 0
+          fi
+          echo "$stamp $(date -u '+%H:%M:%S') UTC" >> activity-log.txt
           git config user.name "PRADIPGOSAIN"
           git config user.email "pradipking1234@gmail.com"
           git add activity-log.txt
-          git commit -m "daily activity: $(date -u '+%Y-%m-%d')"
+          git commit -m "daily activity: $stamp"
           git push
